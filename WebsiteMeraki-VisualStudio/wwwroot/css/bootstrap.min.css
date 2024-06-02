@@ -368,7 +368,7 @@
   ::-webkit-datetime-edit-minute,
   ::-webkit-datetime-edit-hour-field,
   ::-webkit-datetime-edit-day-field,
-  ::webkit-datetime-edit-month-field,
+  ::-webkit-datetime-edit-month-field,
   ::-webkit-datetime-edit-year-field {
     padding: 0;
   }
@@ -2054,7 +2054,7 @@
     background-size: contain;
     border: 1px solid rgba(0, 0, 0, 0.25);
     appearance: none;
-
+    color-adjust: exact;
   }
   .form-check-input[type="checkbox"] {
     border-radius: 0.25em;
@@ -2606,7 +2606,7 @@
   }
   .btn-secondary:hover {
     color: #000;
-    background-color: #f17f2b;
+    background-color: f17f2b;
     border-color: #f98735;
   }
   .btn-check:focus + .btn-secondary,
@@ -3696,7 +3696,6 @@
     white-space: nowrap;
     width: 80px;
   }
-
   .navbar-nav {
     display: flex;
     flex-direction: column;

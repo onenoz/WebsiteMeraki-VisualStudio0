@@ -39,3 +39,9 @@ D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\
 D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\WebsiteMeraki-VisualStudio.genruntimeconfig.cache
 D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\WebsiteMeraki-VisualStudio.csproj.CopyComplete
 D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutBeranda.cshtml.g.cs
+D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\Razor\Pages\Galery.cshtml.g.cs
+D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\Razor\Pages\Company.cshtml.g.cs
+D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutA.cshtml.g.cs
+D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\Razor\Pages\merek.cshtml.g.cs
+D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\Razor\Pages\Berita.cshtml.g.cs
+D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\Razor\Pages\Contact.cshtml.g.cs

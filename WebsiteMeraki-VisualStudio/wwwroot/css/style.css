@@ -230,6 +230,25 @@ h6,
     }
 }
 
+.header-banner {
+    margin-bottom: 0rem;
+
+    background-position:
+        left 0px top 0px,
+        right 0px top 0px,
+        left 0px bottom 0px,
+        right 0px bottom 0px,
+        center center,
+        center bottom;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 991.98px) {
+    .hero-header {
+        padding: 0 0 0 0;
+    }
+}
+
 
 /*** Section Title ***/
 .section-title {
@@ -868,8 +887,6 @@ h6,
     margin-top: 6rem;
     padding-top: 9rem;
     background:
-        url(../img/blop-top-left.png),
-        /* url(../img/bg-top.png), */
         url(../img/map.png);
     background-position:
         left 0px top 0px,
