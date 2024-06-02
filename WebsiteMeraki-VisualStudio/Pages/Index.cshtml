@@ -2,9 +2,59 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+    Layout = "_layoutBeranda";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Weee co</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<body>
+    <header>
+        <div class="container-xxl position-relative p-0">
+            <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+                <a href="" class="navbar-brand p-0">
+                    <img class="w-25" src="img/logomeraki.png" alt="Logo"> 
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav mx-auto py-0">
+                        <a href="index.html" class="nav-item nav-link active">Beranda</a>
+                        <a href="company.html" class="nav-item nav-link">Perusahaan</a>
+                        <a href="merek.html" class="nav-item nav-link">Merek</a>
+                        <a href="Berita.html" class="nav-item nav-link">Berita</a>
+                        <a href="contact.html" class="nav-item nav-link">Kontak</a>
+                        <div class="col-sm-1 col-md-auto align-self-center align-items-end justify-content-end p-1">
+                            <button class="btn btn-social btn-sm btn bg-transparent">
+                                <img class="img-fluid" src="img/bendera indo.jpg" style="max-width: 20px; max-height: 25px;">
+                            </button>
+                        </div>
+                        <div class="col-sm-1 col-md-auto align-self-center align-items-end justify-content-end p-1">
+                            <button class="btn btn-social btn-sm btn bg-transparent">
+                                <img class="img-fluid" src="img/bendera inggris.jpg" style="max-width: 20px; max-height: 25px;">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="container-xxl hero-header">
+                 <img class="w-100" src="img/Meraki Cipta Rasa.png">
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - WebsiteMeraki_VisualStudio - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src=~/lib/jquery/dist/jquery.min.js></script>
+    <script src=~/lib/bootstrap/dist/js/bootstrap.bundle.min.js></script>
+    <script src=~/js/site.js asp-append-version="true"></script>
+
+   
+</body>

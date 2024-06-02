@@ -38,3 +38,4 @@ D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\
 D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\WebsiteMeraki-VisualStudio.pdb
 D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\WebsiteMeraki-VisualStudio.genruntimeconfig.cache
 D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\WebsiteMeraki-VisualStudio.csproj.CopyComplete
+D:\Semester 4\project\WebsiteMeraki-VisualStudio\WebsiteMeraki-VisualStudio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutBeranda.cshtml.g.cs
