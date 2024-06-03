@@ -5,8 +5,4 @@
     <RootNamespace>WebsiteMeraki_VisualStudio</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Content Include="wwwroot\.vscode\launch.json" />
-  </ItemGroup>
-
 </Project>

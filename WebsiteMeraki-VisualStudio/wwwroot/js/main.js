@@ -174,28 +174,26 @@
             renderPagination();
         }
     
-        function renderPagination() {
-            const totalPages = Math.ceil(items.length / itemsPerPage);
-            paginationContainer.innerHTML = '';
-    
-            for (let i = 1; i <= totalPages; i++) {
-                const pageItem = document.createElement('span');
-                pageItem.textContent = i;
-                pageItem.className = 'page-item';
-                if (i === currentPage) {
-                    pageItem.classList.add('active');
-                }
-    
-                pageItem.addEventListener('click', function() {
-                    currentPage = i;
-                    renderPage(currentPage);
-                });
-    
-                paginationContainer.appendChild(pageItem);
-            }
-        }
-    
+        //js navbar ganti warna
         renderPage(currentPage);
+    });document.addEventListener('DOMContentLoaded', (event) => {
+        // Dapatkan URL saat ini
+        const currentLocation = window.location.href;
+    
+        // Dapatkan semua item di navbar
+        const menuItems = document.querySelectorAll('.navbar-nav .nav-link');
+    
+        // Loop melalui setiap item di navbar
+        menuItems.forEach(item => {
+            // Jika href dari item cocok dengan URL saat ini
+            if (item.href === currentLocation) {
+                // Tambahkan kelas 'active' pada item tersebut
+                item.classList.add('active');
+            } else {
+                // Hapus kelas 'active' dari item lain
+                item.classList.remove('active');
+            }
+        });
     });
     
 })(jQuery);

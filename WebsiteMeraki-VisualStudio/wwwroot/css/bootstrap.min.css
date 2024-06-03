@@ -3591,6 +3591,8 @@
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
       border-color 0.15s ease-in-out;
   }
+
+
   @media (prefers-reduced-motion: reduce) {
     .nav-link {
       transition: none;
@@ -3980,6 +3982,7 @@
   .navbar-dark .navbar-text a:focus {
     color: #fff;
   }
+
   .card {
     position: relative;
     display: flex;
