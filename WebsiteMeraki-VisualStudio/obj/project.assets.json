@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\asus\\.nuget\\packages\\": {}
+    "C:\\Users\\piere\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester 4\\project\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj",
+      "projectUniqueName": "C:\\Users\\piere\\Source\\Repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj",
       "projectName": "WebsiteMeraki-VisualStudio",
-      "projectPath": "D:\\Semester 4\\project\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj",
-      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester 4\\project\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio\\obj\\",
+      "projectPath": "C:\\Users\\piere\\Source\\Repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj",
+      "packagesPath": "C:\\Users\\piere\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\piere\\Source\\Repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\piere\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
