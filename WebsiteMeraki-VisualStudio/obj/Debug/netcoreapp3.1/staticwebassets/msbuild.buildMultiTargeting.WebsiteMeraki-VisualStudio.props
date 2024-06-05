@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\WebsiteMeraki-VisualStudio.props" />
-</Project>
