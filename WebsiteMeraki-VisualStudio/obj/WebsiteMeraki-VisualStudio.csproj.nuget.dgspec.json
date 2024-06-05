@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\piere\\Source\\Repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj": {}
+    "C:\\Users\\piere\\source\\repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\piere\\Source\\Repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj": {
+    "C:\\Users\\piere\\source\\repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\piere\\Source\\Repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj",
+        "projectUniqueName": "C:\\Users\\piere\\source\\repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj",
         "projectName": "WebsiteMeraki-VisualStudio",
-        "projectPath": "C:\\Users\\piere\\Source\\Repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj",
+        "projectPath": "C:\\Users\\piere\\source\\repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\WebsiteMeraki-VisualStudio.csproj",
         "packagesPath": "C:\\Users\\piere\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\piere\\Source\\Repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\obj\\",
+        "outputPath": "C:\\Users\\piere\\source\\repos\\onenoz\\WebsiteMeraki-VisualStudio0\\WebsiteMeraki-VisualStudio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\piere\\AppData\\Roaming\\NuGet\\NuGet.Config",
