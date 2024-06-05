@@ -1,0 +1,118 @@
+﻿@page
+@model WizzFoodModel
+@{
+    ViewData["Title"] = "Wizz Food";
+    Layout = "_layoutA";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <body>
+    <div class="container-xxl position-relative p-0 ">
+        <div class="container-xxl py-5 bg-primary hero-header">
+            <div class="container my-5 py-5 px-lg-5">
+                <div class="row g-5 py-5">
+                    <div class="col-lg-6 text-center ">
+                        <img class="img-fluid animated zoomIn" src="img/wizz_food.png" alt="">
+                    </div>
+                    <div class="col-lg-6 text-center ">
+                        <h1 class="text-white mb-4 slideInDown">Wizz Food</h1>
+                        <nav caria-label="breadcrumb">
+                            <ol class="breadcrumb justify-content-center">
+                                <li class="breadcrumb-item text-white"><a class="breadcrumb-item" href="merek.html">Merek</li></a>
+                                <li class="breadcrumb-item text-white"><a class="breadcrumb-item active" href="deks-merek-wizzfood.html">Wizz Food</li></a>
+                            </ol>
+                        </nav>
+                        <hr class="bg-white mx-auto mt-0" style="width: 90px;">
+                        <p class="text-white animated slideInDown">Deksripsi singkat merek</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Navbar & Hero End -->
+        <!-- Project Start -->
+        <!--Detail Product-->
+        <div class="container-dekspro">
+            <div class="row base-dekripsi detail" id="01">
+                <div class="base col-md-4">
+                    <div class="base-body align-items-center">
+                        <img class="img-fluid" src="img/wizz_food_abon ayam original.jpg">
+                    </div>
+                </div>
+                <div class="base col-md-8 dekripsi-konten">
+                    <h3 class="text-white text-capitalize">Wizz Food - Abon Ayam Original</h3>
+                    <div class="content">
+                        Abonn WIZZ terbuat dari ayam dan rempah segar pilihan. Diolah secara cermat sehingga menghasilkan rasa yang nikmat dan tekstur yang pas.
+                        Umur simpan 3 Bulan setelah dibuka, seimpan di tempat kering, tutup rapat setelah kemasan dibuka.
+                    </div>
+                    <div class="content">Berat: 150 gr</div>
+                </div>
+            </div>
+            <div class="row base-dekripsi detail" id="02">
+                <div class="base col-md-4">
+                    <div class="base-body align-items-center">
+                        <img class="img-fluid" src="img/wizz_food_abon ayam spicy.jpg">
+                    </div>
+                </div>
+                <div class="base col-md-8 dekripsi-konten">
+                    <h3 class="text-white text-capitalize">Wizz Bites - Chicken Nugget Cheese</h3>
+                    <div class="content">
+                        Abonn WIZZ terbuat dari ayam dan rempah segar pilihan. Diolah secara cermat sehingga menghasilkan rasa yang nikmat dan tekstur yang pas.
+                        Umur simpan 3 Bulan setelah dibuka, seimpan di tempat kering, tutup rapat setelah kemasan dibuka.
+                    </div>
+                    <div class="content">Berat: 150 gr</div>
+                </div>
+            </div>
+            <div class="row base-dekripsi detail" id="03">
+                <div class="base col-md-4">
+                    <div class="base-body align-items-center">
+                        <img class="img-fluid" src="img/wizz_food_abon ikan tuna.jpg">
+                    </div>
+                </div>
+                <div class="base col-md-8 dekripsi-konten">
+                    <h3 class="text-white text-capitalize">Wizz Food - Abon Ikan Tuna</h3>
+                    <div class="content">
+                        Abonn WIZZ terbuat dari ayam dan rempah segar pilihan. Diolah secara cermat sehingga menghasilkan rasa yang nikmat dan tekstur yang pas.
+                        Umur simpan 3 Bulan setelah dibuka, seimpan di tempat kering, tutup rapat setelah kemasan dibuka.
+                    </div>
+                    <div class="content">Berat: 150 gr</div>
+                </div>
+            </div>
+        </div>
+        <!--Detail Product-->
+        <!--Produk Item-->
+        <div class="container-xxl py-5">
+            <div class="container py-5 px-lg-5">
+                <div class="row g-4">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="product-item d-flex flex-column text-center button" id="01">
+                            <img class="img-fluid w-100 " src="img/wizz_food_abon ayam original.jpg">
+                            <div class="product-item label">
+                                Abon Ayam Original
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="product-item d-flex flex-column text-center button" id="02">
+                            <img class="img-fluid w-100 " src="img/wizz_food_abon ayam spicy.jpg">
+                            <div class="product-item label">
+                                Abon Ayam Spicy
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="product-item d-flex flex-column text-center button" id="03">
+                            <img class="img-fluid w-100 " src="img/wizz_food_abon ikan tuna.jpg">
+                            <div class="product-item label">
+                                Abon Ikan Tuna
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+ </html>
